@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">translator</string>
+    <string-array name="list">
+        <item>from</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>ar</item>
+    </string-array>  <string-array name="list2">
+        <item>to</item>
+        <item>ar</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>it</item>
+    </string-array>
+</resources>
